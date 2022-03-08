@@ -1,0 +1,12 @@
+{
+	"name": "change-file-extensions",
+	"version": "1.0.0",
+	"author": "wvbe",
+	"license": "MIT",
+	"bin": {
+		"fark": "./change-file-extensions.js"
+	},
+	"dependencies": {
+		"glob": "^7.2.0"
+	}
+}
